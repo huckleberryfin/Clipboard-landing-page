@@ -260,7 +260,7 @@ button {
 }
 
 .access__image-container {
-    /* max-width: 81.2rem; */
+    max-width: 81.2rem;
     /* width: 100%; */
     margin: 0 auto;
     margin-top: 11rem;
@@ -313,6 +313,10 @@ button {
     }
 
 
+}
+
+.testimonials__image {
+    margin-right: 3rem;
 }
 
 .supercharge__usp-image {
